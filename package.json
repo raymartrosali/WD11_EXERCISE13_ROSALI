@@ -1,0 +1,14 @@
+{
+  "name": "wd11_exercise13_rosali",
+  "version": "1.0.0",
+  "description": "This is an example file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RAYMART ROSALI",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
